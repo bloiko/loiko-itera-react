@@ -2,6 +2,7 @@
   "name": "loiko-itera-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://bloiko.github.io/loiko-itera-react",
   "dependencies": {
     "@doist/todoist-api-typescript": "^1.5.0",
     "@testing-library/jest-dom": "^5.16.1",
