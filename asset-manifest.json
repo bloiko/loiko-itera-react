@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/loiko-itera-react/static/css/main.1a8a0596.css",
+    "main.js": "/loiko-itera-react/static/js/main.a0471015.js",
+    "index.html": "/loiko-itera-react/index.html",
+    "main.1a8a0596.css.map": "/loiko-itera-react/static/css/main.1a8a0596.css.map",
+    "main.a0471015.js.map": "/loiko-itera-react/static/js/main.a0471015.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.a0471015.js"
+  ]
+}
